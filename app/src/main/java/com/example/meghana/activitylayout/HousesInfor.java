@@ -1,8 +1,6 @@
 package com.example.meghana.activitylayout;
 
-/**
- * Created by meghana on 29/2/16.
- */
+
 public class HousesInfor {
 
 

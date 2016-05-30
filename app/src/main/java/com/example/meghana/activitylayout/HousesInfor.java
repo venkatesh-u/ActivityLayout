@@ -10,6 +10,7 @@ public class HousesInfor {
     private boolean type;
 
     public HousesInfor(String name, boolean type) {
+        //edited just
         this.name = name;
         this.type = type;
     }

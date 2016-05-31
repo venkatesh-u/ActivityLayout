@@ -1,6 +1,8 @@
 package com.example.meghana.activitylayout;
 
-
+/**
+ * Created by meghana on 29/2/16.
+ */
 public class HousesInfor {
 
 
@@ -8,8 +10,7 @@ public class HousesInfor {
     private boolean type;
 
     public HousesInfor(String name, boolean type) {
-        //edited just for testing
-    
+        //edited just
         this.name = name;
         this.type = type;
     }

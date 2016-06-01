@@ -1,5 +1,4 @@
 .somedir/*
-/build.gradle
 /.idea
 /gradle/Wrapper
 /gradle

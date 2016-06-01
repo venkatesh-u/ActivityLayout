@@ -1,4 +1,4 @@
-/somedir
+.somedir/*
 /build.gradle
 
 
